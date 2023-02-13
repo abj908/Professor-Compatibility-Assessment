@@ -1,4 +1,4 @@
-var EMAIL_TEMPLATE_DOC_URL = 'https://docs.google.com/document/d/1VKY8hFXDKqUsBIjBz0swHgTNbFhZWPcOrJne1GbM3eo/edit?usp=sharing&resourcekey=0-Fh6PAZrsoo1GAHpYoGUNRw'
+var EMAIL_TEMPLATE_DOC_URL = #Hidden 
 //
 
 // This constant is written in column C for rows for which an email
