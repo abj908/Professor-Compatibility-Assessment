@@ -1,4 +1,4 @@
-var EMAIL_TEMPLATE_DOC_URL = #Hidden 
+var EMAIL_TEMPLATE_DOC_URL = //Hidden 
 //
 
 // This constant is written in column C for rows for which an email
